@@ -1,4 +1,4 @@
-# multi
+# Example of Typescript Vue App with prerender and dynamic loading content
 
 ## Project setup
 ```
